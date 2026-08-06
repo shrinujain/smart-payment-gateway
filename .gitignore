@@ -1,0 +1,25 @@
+# Secrets
+gcp-key.json
+**/gcp-key.json
+.env
+*.key.json
+# Java
+target/
+*.jar
+*.class
+*.log
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
